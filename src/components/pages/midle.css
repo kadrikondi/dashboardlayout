@@ -1,0 +1,56 @@
+/* Layout Properties */
+.middle {
+  top: 122px;
+  left: 417px;
+  width: 766px;
+  height: 673px;
+  /* UI Properties */
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 16px;
+  opacity: 1;
+}
+.bpmm {
+  top: 533px;
+  left: 437px;
+  width: 228px;
+  height: 242px;
+  /* UI Properties */
+  background: #e0f3fa 0% 0% no-repeat padding-box;
+  border-radius: 12px;
+  opacity: 1;
+}
+.temp {
+  /* Layout Properties */
+  top: 533px;
+  left: 686px;
+  width: 228px;
+  height: 242px;
+  /* UI Properties */
+  background: #ffe6e9 0% 0% no-repeat padding-box;
+  border-radius: 12px;
+  opacity: 1;
+}
+.hrate {
+  /* Layout Properties */
+  top: 533px;
+  left: 935px;
+  width: 228px;
+  height: 242px;
+  /* UI Properties */
+  background: #ffe6f1 0% 0% no-repeat padding-box;
+  border-radius: 12px;
+  opacity: 1;
+}
+
+.graphh {
+  /* Layout Properties */
+  top: 215px;
+  left: 437px;
+  width: 726px;
+  height: 298px;
+  /* UI Properties */
+  background: #f4f0fe 0% 0% no-repeat padding-box;
+  border-radius: 12px;
+  opacity: 1;
+}
